@@ -1,2 +1,1 @@
-# calculator-github-actions
 Atividade prática sobre testes de unidade e github actions para a matéria Engenharia de Software 2 da UFMG
